@@ -1,0 +1,28 @@
+.mainCountry {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mainInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.tempText {
+    font-size: 40px;
+    color: white;
+
+}
+
+.textInfo {
+    text-align: center;
+}
+
+.mainMapInfo {
+    display: flex;
+    justify-content: center;
+}
